@@ -2,5 +2,4 @@
 __pycache__
 *.pyc
 
-starter_code/api_keys.py
-starter_code/WeatherPy/api_keys.py
+*/api_keys.py
